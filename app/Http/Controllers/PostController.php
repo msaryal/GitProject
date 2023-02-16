@@ -12,4 +12,9 @@ class PostController extends BaseController
     {
         return '';
     }
+
+    public function method2()
+    {
+        return '';
+    }
 }
