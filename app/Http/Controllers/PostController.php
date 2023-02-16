@@ -8,7 +8,7 @@ use Illuminate\Routing\Controller as BaseController;
 
 class PostController extends BaseController
 {
-    public function postFromGitProject2()
+    public function postFromGitProject()
     {
         return '';
     }
